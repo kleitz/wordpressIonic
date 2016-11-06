@@ -1,0 +1,11 @@
+{
+  "name": "WordpressIonic",
+  "app_id": "00054423",
+  "gulpStartupTasks": [
+    "jade",
+    "sass",
+    "watch"
+  ]
+}
+
+

@@ -18,5 +18,11 @@
 				
 			</div>
 		</div>
+		<ion-list>
+			<ion-item ng-repeat="siteCategory in siteCategories" menu-close href="#/{{category.id}}">
+				<span ng-bind-html="siteCategories.name"></span><span class="badge badge-assertive">{{ siteCategories.name }}</span>
+			</ion-item>
+		</ion-list>
+
 	</ion-content>
 </ion-view>

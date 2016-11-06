@@ -10076,9 +10076,9 @@ drawer .header-menu {
       border-radius: 50%; }
       drawer .header-menu .customer-profile .avatar img {
         position: absolute;
-        height: 70px;
-        width: 70px;
-        border-radius: 50%; }
+        height: 80px;
+        width: 80px;
+        /*border-radius: 50%;*/ }
     drawer .header-menu .customer-profile .displayname {
       position: absolute;
       top: 35px;
