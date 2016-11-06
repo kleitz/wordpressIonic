@@ -31,36 +31,7 @@
 		"name":"Shoes",
 		"image":"shoes.png",	
 		"isPromo":"0"	
-	},
-	{
-		"id":"6",
-		"name":"Glasses",
-		"image":"glasses.png",	
-		"isPromo":"0",
-		"showInMenu":"1"	
-	},
-	{
-		"id":"7",
-		"name":"Jeans",
-		"image":"jeans.png",	
-		"isPromo":"0"	
 	}
-	,
-	{
-		"id":"8",
-		"name":"Jackets",
-		"image":"jackets.png",	
-		"isPromo":"0",
-		"showInMenu":"1"	
-	},
-	{
-		"id":"9",
-		"name":"Clothings",
-		"image":"hats.png",	
-		"isPromo":"0",
-		"showInMenu":"1"	
-	}
-
 	]
 	
 }
